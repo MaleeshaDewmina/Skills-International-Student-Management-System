@@ -1,0 +1,17 @@
+# Visual Studio and generated output
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+# Local data and secrets
+.env
+.env.*
+!.env.example
+*.mdf
+*.ldf
+*.bak
+TestResults/
